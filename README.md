@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Patricia</h1>
-<h3>Jr Software Developer with a background in Design & Digital Arts</h3>
+<h4>Jr Software Developer with a background in Design & Digital Arts</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patriciabrsk&label=Profile%20views&color=0e75b6&style=flat" alt="patriciabrsk" /> </p>
 
