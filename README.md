@@ -1,5 +1,4 @@
 <h1 align="left">Hi 👋 I'm Patricia</h1>
-// <h4 align="left">Software Developer with a background in Design & Digital Arts</h4>
 
 💌 **patriciabresku@gmail.com**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patriciabrsk&label=Profile%20views&color=0e75b6&style=flat" alt="patriciabrsk" /> </p>
